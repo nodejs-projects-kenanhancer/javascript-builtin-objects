@@ -1,0 +1,27 @@
+{
+  "name": "javascript-builtin-objects",
+  "version": "1.0.0",
+  "description": "This is a demo project for Object.entries(), Object.values(), Set, Map",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodejs-projects-kenanhancer/javascript-builtin-objects.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodejs-projects-kenanhancer/javascript-builtin-objects/issues"
+  },
+  "homepage": "https://github.com/nodejs-projects-kenanhancer/javascript-builtin-objects#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  }
+}
