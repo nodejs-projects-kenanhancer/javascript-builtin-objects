@@ -1,6 +1,6 @@
 const { expect, assert, should } = require('chai');
 
-describe('Test', () => {
+describe('Class, Arrow Function and Bind Test', () => {
     it('Class Test 1', () => {
         let person = {
             firstName: "Kenan",
