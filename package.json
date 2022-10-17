@@ -22,6 +22,6 @@
   "homepage": "https://github.com/nodejs-projects-kenanhancer/javascript-builtin-objects#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^8.0.1"
+    "mocha": "^10.1.0"
   }
 }
